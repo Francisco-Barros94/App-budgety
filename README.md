@@ -52,7 +52,7 @@ Here's the link: https://budgety-store.netlify.app/
 <!-- LINKS -->
 ## Links
 
-Project Link: [https://github.com/Francisco-Barros94/Game-pig](https://github.com/Francisco-Barros94/Game-pig)
+Project Link: [https://github.com/Francisco-Barros94/App-budgety](https://github.com/Francisco-Barros94/App-budgety)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
