@@ -39,7 +39,6 @@ Here's the link: https://budgety-store.netlify.app/
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add rules/wiki
 - [ ] Add different background
 - [ ] Add better UI
 - [ ] Other
